@@ -1,7 +1,7 @@
 # > WHOAMI
 <center>
 <h3> Aravindha Hariharan M </h3>
-Secarmy Developer | CNSS | NSE2 | Cybersecurity Enthusiastic | CTF Player | InfoSec | Red-Hat Academy Student Ambassador
+CEH | CNSS | NSE2 | Cybersecurity Enthusiastic | CTF Player
 </center>
 <hr>
 
@@ -9,9 +9,10 @@ Secarmy Developer | CNSS | NSE2 | Cybersecurity Enthusiastic | CTF Player | Info
 I'm an Cyber Security enthusiast who love to research on the topics related to Capture The Flag, 0 days exploits, Information Security, Ways to create and deploy python tools.I always try to improvise my knowledge through reading writeups and resources from several Hacker community and forums.My experience has been into multiple domains and technologies such as Jeopardy style Capture the Flag and Attack and Defence CTF, Information Gathering, Active and Passive Recon, Enumeration and Cryptography, Web Exploits, Forensic, Python Reverse Engineering. 
 
 ### Work Experience
-- :briefcase: I'm working as Fullstack Developer at **Security and Research Community (SECARMY)**
-- :mortar_board: I'm Student Ambassador of **Redhat Academy** at SKCET
-- :books: I'm B.Tech Student at SKCET
+- 💻 Core Nerd at Ax1al Community
+- :briefcase: Fullstack Developer at **Security and Research Community (SECARMY)**
+- :mortar_board:Student Ambassador of **Redhat Academy** at SKCET
+- :books: B.Tech at SKCET
 
 ### Skills
 * Pentesting and Webapp Vulnerability Assessment
